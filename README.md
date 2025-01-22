@@ -7,7 +7,7 @@ talked about how we can simulate velocity, collision and even gravitation in 2D 
 
 Game play: The game includes a bunch of different shapes spawned by the computer and then a unique hallow shape which represents the player and is used to shoot white balls 
 at each shape which ends up dispersing into smaller shapes before disappearing from the screen. Each shape has it's own life time on the screen and will gradually fade away
-after some number of frames geos by. the controls for the player are W - move up D- move left  A- move right S-move down the right clicking on any shape on the sreen to shoot 
+after some number of frames geos by. the controls for the player are W - move up D- move left  A- move right S-move down, then right clicking on any shape on the sreen to shoot 
 a white ball (in 2D) in the direction to that shape 
 
 Future_Goals: This project is more of a hands on experience of creating 2D games using graphic libaries in conjuction with c++. I plan a building this exact game 
