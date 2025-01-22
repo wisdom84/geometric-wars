@@ -12,3 +12,7 @@ a white ball (in 2D) in the direction of that shape
 
 Future_Goals: This project is more of a hands on experience of creating 2D games using graphic libaries in conjuction with c++. I plan on building this exact game 
 but in 3D with a more  robost  custom  game engine 
+
+
+
+![Снимок экрана 2025-01-22 153143](https://github.com/user-attachments/assets/8e181820-219d-4784-a3c1-30b2f24a86a6)
